@@ -1,1 +1,1 @@
-# owm-to-influxdb
+# OperWeatherMap to InfluxDB (owm-to-influxdb)

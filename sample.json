@@ -1,0 +1,43 @@
+{
+    "sys" : {
+       "message" : 0.0066,
+       "sunset" : 1560109903,
+       "id" : 6540,
+       "sunrise" : 1560052060,
+       "country" : "FR",
+       "type" : 1
+    },
+    "visibility" : 10000,
+    "clouds" : {
+       "all" : 90
+    },
+    "weather" : [
+       {
+          "icon" : "04d",
+          "description" : "overcast clouds",
+          "id" : 804,
+          "main" : "Clouds"
+       }
+    ],
+    "main" : {
+       "temp_max" : 20,
+       "pressure" : 1020,
+       "temp" : 17.93,
+       "humidity" : 63,
+       "temp_min" : 16
+    },
+    "dt" : 1560085882,
+    "timezone" : 7200,
+    "wind" : {
+       "speed" : 1
+    },
+    "base" : "stations",
+    "id" : 2994540,
+    "cod" : 200,
+    "name" : "Paris 20 Ménilmontant",
+    "coord" : {
+       "lat" : 48.86,
+       "lon" : 2.4
+    }
+ }
+ 
